@@ -1,0 +1,63 @@
+#cabecalho .nav .nav-link.active{
+    background-color: #46190F;
+    color: white;
+}
+
+header{
+    background-color: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.281);
+}
+
+.button-cor{
+    background-color: #C6AA69;
+    color: white;
+}
+
+.button-cor:hover{
+    background-color:#e4cd99 ;
+}
+
+#cabecalho .nav .nav-link.active:hover{
+    color: white;
+    background-color:#914d3d ;
+}
+
+.text-colored{
+    color: #46190F;
+}
+
+#cabecalho .nav .nav-link:hover{
+    color: #914d3d;
+}
+
+.card{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
+
+#unidades .card-text, 
+#unidades .card-title{
+    color: #914d3d;
+}
+
+#cardapio .nav .nav-link.active{
+    background-color: #46190F;
+}
+
+#cardapio .nav .nav-link.active:hover{
+    color: white;
+}
+
+#cardapio .nav .nav-link:hover{
+    color: #914d3d;   
+}
+
+.social-links li a{
+    text-decoration: none;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
